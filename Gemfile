@@ -8,5 +8,6 @@ group :development, :test do
   gem 'cucumber'
   gem 'capybara'
   gem 'evergreen'
+  gem 'keydown'
 end
 
