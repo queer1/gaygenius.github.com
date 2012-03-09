@@ -1,0 +1,28 @@
+.keydown.deck-container .slide.intro .content .avatar {
+    right: 100%;
+}
+
+.keydown.deck-container .slide.intro .content .statement,
+.keydown.deck-container .slide.intro .content li {
+    display: block;
+    font-size: 1.5rem;
+}
+
+.keydown.deck-container .slide.intro .content .bold {
+    font-weight: bold;
+}
+
+.keydown.deck-container .slide.intro .content span.statement1,
+.keydown.deck-container .slide.intro .content span.statement3,
+.keydown.deck-container .slide.intro .content ul li {
+    display: block;
+}
+
+.keydown.deck-container .slide.intro .content .statement3,
+.keydown.deck-container .slide.intro .content ul {
+    clear: both;
+}
+
+.keydown.deck-container .slide.intro .content .statement > span {
+    float: left;
+}
