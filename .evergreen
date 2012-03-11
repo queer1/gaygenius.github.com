@@ -1,0 +1,5 @@
+Evergreen.configure do |config|
+  config.public_dir = 'cv'
+  config.spec_dir = 'spec'
+  config.template_dir = 'spec/templates'
+end

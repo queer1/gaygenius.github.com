@@ -10,5 +10,6 @@ Feature: User visits home page
   Scenario: User navigates from the first to the second slide
     Given I go to the home page and wait to be redirected
     When I click on the right arrow
+    And I wait until all animations have finished
     Then I should not be on the 1st cv slide
     And I should be on the 2nd cv slide

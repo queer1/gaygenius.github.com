@@ -1,4 +1,4 @@
-.keydown.deck-container .slide.intro .content .avatar {
+ .keydown.deck-container .slide.intro .content .avatar {
     right: 100%;
 }
 
@@ -15,7 +15,7 @@
 .keydown.deck-container .slide.intro .content span.statement1,
 .keydown.deck-container .slide.intro .content span.statement3,
 .keydown.deck-container .slide.intro .content ul li {
-    display: block;
+    display: none;
 }
 
 .keydown.deck-container .slide.intro .content .statement3,
