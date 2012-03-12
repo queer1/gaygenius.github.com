@@ -1,0 +1,10 @@
+.keydown.deck-container .slide.process .content p,
+.keydown.deck-container .slide.process .content li {
+    font-size: 1.8rem;
+}
+
+.keydown.deck-container .slide.process .content li img {
+    display: inline;
+    height: 1.5rem;
+    margin-bottom: -0.25rem;
+}

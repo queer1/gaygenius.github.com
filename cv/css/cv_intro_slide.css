@@ -1,7 +1,3 @@
- .keydown.deck-container .slide.intro .content .avatar {
-    right: 100%;
-}
-
 .keydown.deck-container .slide.intro .content .statement,
 .keydown.deck-container .slide.intro .content li {
     display: block;

@@ -1,12 +1,19 @@
-/* Custom CSS for your KeyDown presentation here */
+.keydown.deck-container .slide .footer {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 100%;
+    border-top: thick dotted #000000;
+}
 
-/* Uncomment to turn off deck.js navigation */
-/*.deck-prev-link,*/
-/*.deck-next-link {*/
-    /*display: none;*/
-/*}*/
+.keydown.deck-container .slide .footer .name {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #000;
+    margin-left: 5px;
+}
 
-/* Uncomment to turn off deck.js status */
-/*.deck-status {*/
-    /*display: none;*/
-/*}*/
+.keydown.deck-container .slide .footer .tagline {
+    font-size: 0.9rem;
+    margin-left: 10px;
+}

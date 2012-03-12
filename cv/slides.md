@@ -23,7 +23,7 @@
 <span class='tagline'>MIT-educated <strong>Senior Agile Software Engineer</strong></span>
 </div>
 
-#Experience
+#Skills
 
 ## Ruby on Rails
 
@@ -38,11 +38,13 @@ MySQL, varnish, git, many gems (devise, resque, etc.)
 <span class='tagline'>MIT-educated <strong>Senior Agile Software Engineer</strong></span>
 </div>
 
-#Experience
+#Skills
 
 ## Front-end
 
 JavaScript, jQuery, coffeescript
+
+CSS
 
 !SLIDE left experience
 
@@ -51,10 +53,31 @@ JavaScript, jQuery, coffeescript
 <span class='tagline'>MIT-educated <strong>Senior Agile Software Engineer</strong></span>
 </div>
 
-#Experience
+#Skills
 
 ## Test-driven development
 
 RSpec, mocks and stubs
 
 Cucumber, Selenium, Capybara
+
+Jasmine
+
+!SLIDE left process
+
+<div class='footer'>
+<span class='name'>Jos&eacute; Cap&oacute;</span>
+<span class='tagline'>MIT-educated <strong>Senior Agile Software Engineer</strong></span>
+</div>
+
+#Test-Driven
+
+This slide deck was [test-driven](http://en.wikipedia.org/wiki/Test-driven_development), using:
+
+* Pivotal Tracker: ["Test-Driven Developer (Public)"](https://www.pivotaltracker.com/projects/493177)
+
+* Integration Tests: [Cucumber](http://cukes.info) / [Capybara](https://github.com/jnicklas/capybara#readme)
+
+* JavaScript Unit Tests: [Jasmine](http://pivotal.github.com/jasmine), [Evergreen](https://github.com/jnicklas/evergreen#readme)
+
+* Continuous Integration Builder: [Travis CI](http://travis-ci.org/gaygenius/gaygenius.github.com) [![Build Status](https://secure.travis-ci.org/gaygenius/gaygenius.github.com.png?branch=master)](http://travis-ci.org/gaygenius/gaygenius.github.com)
