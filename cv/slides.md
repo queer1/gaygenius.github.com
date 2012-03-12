@@ -80,4 +80,20 @@ This slide deck was [test-driven](http://en.wikipedia.org/wiki/Test-driven_devel
 
 * JavaScript Unit Tests: [Jasmine](http://pivotal.github.com/jasmine), [Evergreen](https://github.com/jnicklas/evergreen#readme)
 
-* Continuous Integration Builder: [Travis CI](http://travis-ci.org/gaygenius/gaygenius.github.com) [![Build Status](https://secure.travis-ci.org/gaygenius/gaygenius.github.com.png?branch=master)](http://travis-ci.org/gaygenius/gaygenius.github.com)
+* Continuous Integration: [Travis CI](http://travis-ci.org/gaygenius/gaygenius.github.com) [![Build Status](https://secure.travis-ci.org/gaygenius/gaygenius.github.com.png?branch=master)](http://travis-ci.org/gaygenius/gaygenius.github.com)
+
+!SLIDE further-info
+
+#Further Information
+
+###LinkedIn
+
+[http://www.linkedin.com/in/josecapo](http://www.linkedin.com/in/josecapo)
+
+###R&eacute;sum&eacute; PDF
+
+[![PDF](images/pdficon_large.png)](capo-jose.pdf)
+
+###Contact Me
+
+`jose@josecapo.com`
