@@ -29,7 +29,7 @@
 
 Full-stack RoR since 2010, trained by [Pivotal Labs](http://pivotallabs.com)
 
-MySQL, varnish, git, many gems (devise, resque, etc.)
+MySQL, varnish, git, various gems (devise, resque, etc.)
 
 !SLIDE left experience
 
@@ -74,7 +74,54 @@ Jasmine
 
 This slide deck was [test-driven](http://en.wikipedia.org/wiki/Test-driven_development), using:
 
-* Pivotal Tracker: ["Test-Driven Developer (Public)"](https://www.pivotaltracker.com/projects/493177)
+!SLIDE left
+
+# Pivotal Tracker
+
+}}} images/pivotaltracker.png
+
+!SLIDE left
+
+# Cucumber / Capybara
+
+}}} images/cucumber.png
+
+!SLIDE left
+
+# Jasmine / Evergreen
+
+}}} images/evergreen.png
+
+!SLIDE left
+
+# Travis CI
+
+}}} images/travis-ci.png
+
+!SLIDE left
+
+# GitHub
+
+}}} images/github.png
+
+!SLIDE left
+
+# RubyMine
+
+}}} images/rubymine.png
+
+!SLIDE left process
+
+<div class='footer'>
+<span class='name'>Jos&eacute; Cap&oacute;</span>
+<span class='tagline'>MIT-educated <strong>Senior Agile Software Engineer</strong></span>
+</div>
+
+#Test-Driven
+
+This slide deck was [test-driven](http://en.wikipedia.org/wiki/Test-driven_development), using:
+
+* Project Management: [Pivotal Tracker](https://www.pivotaltracker.com/projects/493177)
 
 * Integration Tests: [Cucumber](http://cukes.info) / [Capybara](https://github.com/jnicklas/capybara#readme)
 
@@ -86,14 +133,14 @@ This slide deck was [test-driven](http://en.wikipedia.org/wiki/Test-driven_devel
 
 #Further Information
 
-###LinkedIn
+###[LinkedIn](http://www.linkedin.com/in/josecapo)
 
 [http://www.linkedin.com/in/josecapo](http://www.linkedin.com/in/josecapo)
 
-###R&eacute;sum&eacute; PDF
+###[R&eacute;sum&eacute; PDF](capo-jose.pdf)
 
 [![PDF](images/pdficon_large.png)](capo-jose.pdf)
 
-###Contact Me
+###[Contact Me](mailto:jose@josecapo.com)
 
-`jose@josecapo.com`
+[`jose@josecapo.com`](mailto:jose@josecapo.com)

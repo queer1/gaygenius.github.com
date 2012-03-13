@@ -104,6 +104,18 @@ body {
       -webkit-box-pack: start;
       -ms-box-pack: start;
       box-pack: start; }
+      .keydown.deck-container .slide.full-background.pivotaltracker {
+        background-image: url(../images/pivotaltracker.png); }
+      .keydown.deck-container .slide.full-background.cucumber {
+        background-image: url(../images/cucumber.png); }
+      .keydown.deck-container .slide.full-background.evergreen {
+        background-image: url(../images/evergreen.png); }
+      .keydown.deck-container .slide.full-background.travis-ci {
+        background-image: url(../images/travis-ci.png); }
+      .keydown.deck-container .slide.full-background.github {
+        background-image: url(../images/github.png); }
+      .keydown.deck-container .slide.full-background.rubymine {
+        background-image: url(../images/rubymine.png); }
       .keydown.deck-container .slide.full-background h1 {
         display: inline;
         position: absolute;
